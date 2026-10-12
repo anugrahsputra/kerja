@@ -1,0 +1,28 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/anugrahsputra/kerja/releases/download/v1.0.0/kerja_1.0.0_amd64.zip",
+            "bin": [
+                "kerja.exe"
+            ],
+            "hash": "3585ccbdf358212d07eade31dfad3d0a32f5c129e51d44219396c0d41c757527"
+        },
+        "arm64": {
+            "url": "https://github.com/anugrahsputra/kerja/releases/download/v1.0.0/kerja_1.0.0_arm64.zip",
+            "bin": [
+                "kerja.exe"
+            ],
+            "hash": "972d5feeb5c2a6a5038fe32b97c7c4f5e549cbf6f3a3f65b8d011fb094f281d1"
+        }
+    },
+    "homepage": "https://github.com/anugrahsputra/kerja",
+    "license": "Freeware",
+    "description": "Mengurus folder dan file sehari-hari di Windows dengan tombol panah dan Enter.",
+    "shortcuts": [
+        [
+            "kerja.exe",
+            "kerja"
+        ]
+    ]
+}
