@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/anugrahsputra/kerja/releases/download/v1.0.0/kerja_1.0.0_amd64.zip",
+            "url": "https://github.com/anugrahsputra/kerja/releases/download/v1.1.0/kerja_1.1.0_amd64.zip",
             "bin": [
                 "kerja.exe"
             ],
-            "hash": "3585ccbdf358212d07eade31dfad3d0a32f5c129e51d44219396c0d41c757527"
+            "hash": "bc2bc43bdb4f8c8a36bcb3a7c2fe88a3b134380ea8dd7221bbc60316c4d6c469"
         },
         "arm64": {
-            "url": "https://github.com/anugrahsputra/kerja/releases/download/v1.0.0/kerja_1.0.0_arm64.zip",
+            "url": "https://github.com/anugrahsputra/kerja/releases/download/v1.1.0/kerja_1.1.0_arm64.zip",
             "bin": [
                 "kerja.exe"
             ],
-            "hash": "972d5feeb5c2a6a5038fe32b97c7c4f5e549cbf6f3a3f65b8d011fb094f281d1"
+            "hash": "a1bc4e0ba967bf489976b2d3160127e61a0041b70428e642610bf9594fdbd87f"
         }
     },
     "homepage": "https://github.com/anugrahsputra/kerja",
